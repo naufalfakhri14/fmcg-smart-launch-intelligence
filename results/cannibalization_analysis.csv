@@ -1,0 +1,9 @@
+New_SKU,Launch_Date,Segment,Category,Comparable_SKUs,Peer_Pre_Avg_Daily_Units,Peer_Post_Avg_Daily_Units,Peer_Change_%,Segment_Pre_Avg_Daily_Units,Segment_Post_Avg_Daily_Units,Segment_Change_%,Indication,Final_Indication
+SN-013,2023-01-08,SnackBar-Seg2,SnackBar,1,102.80952380952381,168.24444444444444,63.64675003859811,102.80952380952381,168.24444444444444,63.64675003859811,No Clear Cannibalization Indication,No Clear Cannibalization Indication
+YO-020,2023-01-21,Yogurt-Seg2,Yogurt,2,127.74444444444444,188.59444444444443,47.63416543446116,255.48888888888888,377.18888888888887,47.63416543446116,No Clear Cannibalization Indication,No Clear Cannibalization Indication
+MI-011,2023-04-04,Milk-Seg2,Milk,2,136.67222222222222,144.73333333333335,5.898134222186105,273.34444444444443,289.46666666666664,5.898134222186084,No Clear Cannibalization Indication,No Clear Cannibalization Indication
+YO-024,2023-04-05,Yogurt-Seg3,Yogurt,3,206.22222222222226,205.65185185185183,-0.27658045977014206,618.6666666666666,616.9555555555555,-0.2765804597701146,No Clear Cannibalization Indication,No Clear Cannibalization Indication
+MI-008,2023-04-12,Milk-Seg2,Milk,3,128.00462962962965,149.73703703703703,16.977829216246494,273.8888888888889,295.5777777777778,7.918864097363075,No Clear Cannibalization Indication,No Clear Cannibalization Indication
+SN-028,2023-04-20,SnackBar-Seg1,SnackBar,1,116.39344262295081,205.72222222222223,76.74726134585292,,,,No Clear Cannibalization Indication,Insufficient Comparison
+YO-018,2023-05-07,Yogurt-Seg1,Yogurt,3,191.49629629629626,187.95555555555555,-1.8489865387590776,574.4888888888889,563.8666666666667,-1.8489865387590971,No Clear Cannibalization Indication,No Clear Cannibalization Indication
+SN-030,2023-05-26,SnackBar-Seg1,SnackBar,2,135.50555555555556,212.52777777777777,56.84063794022385,,,,No Clear Cannibalization Indication,Insufficient Comparison
